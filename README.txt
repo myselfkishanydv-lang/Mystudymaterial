@@ -1,0 +1,1 @@
+Open this directory in Android Studio. The HTML is in app/src/main/assets/index.html. Build an APK from Android Studio.
